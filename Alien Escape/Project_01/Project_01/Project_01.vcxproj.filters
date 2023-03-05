@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Items &amp; Inventory">
+      <UniqueIdentifier>{f4b9cabd-6d1d-4510-8eb8-57a32814635c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items &amp; Inventory">
+      <UniqueIdentifier>{6c6c6b42-a7da-411a-b6ce-a66c73c7ca7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Alien">
+      <UniqueIdentifier>{49fe1349-4bff-4fba-bd69-8bdad7145cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Player">
+      <UniqueIdentifier>{f53c1a38-c825-4ee6-9a3a-a65587c38ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Alien">
+      <UniqueIdentifier>{9720dbeb-f028-4b5c-9227-c43ba2ddf3c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{ef326fc9-6604-43e8-a75d-a6b3f2616de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sounds">
+      <UniqueIdentifier>{54d89758-38a2-4928-8946-f3fd673a71b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sounds">
+      <UniqueIdentifier>{e1ceb4f7-96ca-43a9-bbd0-ee76bbcd49ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Map/Grid">
+      <UniqueIdentifier>{62684da7-232c-4e81-985e-e79a59f2f4f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Map/Grid">
+      <UniqueIdentifier>{a64f8d39-3c79-4269-9c66-63a8f8d4780f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items &amp; Inventory\Items">
+      <UniqueIdentifier>{11bcdb83-635e-40fd-9d71-f9cee68d114e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items &amp; Inventory\Item Storages">
+      <UniqueIdentifier>{0a2ab84f-5dc0-4427-a3fb-d0a3f477356e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items &amp; Inventory\Item Storages">
+      <UniqueIdentifier>{24758ba8-4da6-49eb-b1da-87a8a74b4181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items &amp; Inventory\Items">
+      <UniqueIdentifier>{e448d337-4a9a-45cd-96b7-622f3a22696a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics and Calculations">
+      <UniqueIdentifier>{a00ce39e-2cd5-4664-8da6-2ba0767019e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics and Calculations">
+      <UniqueIdentifier>{357aa692-9beb-4d88-8bbd-2e5765a1192c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes">
+      <UniqueIdentifier>{9c7a4f46-1540-4d13-9b6f-5e81d40c52ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes">
+      <UniqueIdentifier>{e4f259f3-7932-4fc5-9fa0-4bd1a218ce2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes">
+      <UniqueIdentifier>{e9a0f9da-295f-443a-b5ff-3220f34531a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes">
+      <UniqueIdentifier>{8095a6c5-bc3f-4ed4-a589-da1b930e6919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Level Loader">
+      <UniqueIdentifier>{87be6bfc-407c-4b38-8666-281e4460f973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level Loader">
+      <UniqueIdentifier>{57a6f7ad-06e4-438c-88a8-8f952ccd6d9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Yaml Files">
+      <UniqueIdentifier>{4654aed6-1db0-483a-8651-9c26227e14c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pathfinding">
+      <UniqueIdentifier>{807c3d27-5133-4aea-8e5f-6012b64794d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pathfinding">
+      <UniqueIdentifier>{724b51df-3fad-40b6-83f9-5d79b158d0a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes\Screens">
+      <UniqueIdentifier>{cae0db05-a915-4cee-bca3-f0588ec7e080}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes\Screens">
+      <UniqueIdentifier>{c6d08517-10bd-4b06-98a3-27b53a9f52d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Visuals">
+      <UniqueIdentifier>{f991c7cb-e38a-4fdc-b6ba-37b014cba1ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Visuals">
+      <UniqueIdentifier>{d9a89d6f-1d65-49e6-a368-dee7e67318e6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="RememberedCodes.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="AlienHearing.cpp">
+      <Filter>Source Files\Alien</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files\Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source Files\Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files\Map/Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Source Files\Map/Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Book.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="NoiseMaker.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Scanner.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="SmokeBomb.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrowableItem.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemStorage.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClCompile>
+    <ClCompile Include="MapItems.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Alien.cpp">
+      <Filter>Source Files\Alien</Filter>
+    </ClCompile>
+    <ClCompile Include="Maths.cpp">
+      <Filter>Source Files\Physics and Calculations</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionHandler.cpp">
+      <Filter>Source Files\Physics and Calculations</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenSize.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenSize.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelEditor.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenSize.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GridRenderer.cpp">
+      <Filter>Source Files\Map/Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelEditorItems.cpp">
+      <Filter>Source Files\Level Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source Files\Level Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneTypes.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="AlienPlacer.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerPlacer.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source Files\Level Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source Files\Level Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="AstartPathFinding.cpp">
+      <Filter>Source Files\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AstartPathFinding.cpp">
+      <Filter>Source Files\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source Files\Level Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelSelectMenu.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoader.cpp">
+      <Filter>Source Files\Level Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="Particles.cpp">
+      <Filter>Source Files\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuh.cpp">
+      <Filter>Source Files\Scenes\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="WinScreen.cpp">
+      <Filter>Source Files\Scenes\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameMenu.cpp">
+      <Filter>Source Files\Scenes\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelSelectMenu.cpp">
+      <Filter>Source Files\Scenes\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="playerMission.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TutorialScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="RememberedCodes.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AlienHearing.h">
+      <Filter>Header Files\Alien</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundLevels.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header Files\Map/Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Header Files\Map/Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Book.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="NoiseMaker.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Scanner.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ThrowableItem.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="SmokeBomb.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemStorage.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="MapItems.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="ScannerObserver.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="Alien.h">
+      <Filter>Header Files\Alien</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyc2.h">
+      <Filter>Header Files\Physics and Calculations</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths.h">
+      <Filter>Header Files\Physics and Calculations</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionHandler.h">
+      <Filter>Header Files\Physics and Calculations</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenSize.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenSize.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelEditor.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneTypes.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GridRenderer.h">
+      <Filter>Header Files\Map/Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelLoader.h">
+      <Filter>Header Files\Level Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelEditorItems.h">
+      <Filter>Header Files\Level Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphNode.h">
+      <Filter>Header Files\Pathfinding</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphArc.h">
+      <Filter>Header Files\Pathfinding</Filter>
+    </ClInclude>
+    <ClInclude Include="AstartPathFinding.h">
+      <Filter>Header Files\Pathfinding</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Header Files\Pathfinding</Filter>
+    </ClInclude>
+    <ClInclude Include="AlienPlacer.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerPlacer.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeData.h">
+      <Filter>Header Files\Pathfinding</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Particles.h">
+      <Filter>Header Files\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameMenu.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelSelectMenu.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuh.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="WinScreen.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="playerMission.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="TutorialScreen.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScreen.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelSelectMenu.h">
+      <Filter>Header Files\Scenes\Screens</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="levels\level1.yaml">
+      <Filter>Source Files\Yaml Files</Filter>
+    </None>
+    <None Include="levels\levelTest.yaml">
+      <Filter>Source Files\Yaml Files</Filter>
+    </None>
+    <None Include="level1.yaml" />
+    <None Include="levelTest.yaml" />
+    <None Include="YamlBase.yaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Arcs.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Nodes.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

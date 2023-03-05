@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51aeb13e9d09ec4f9d281d2331fe83e, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: 
+  <Items>k__BackingField:
+  - <ItemData>k__BackingField: {fileID: 11400000, guid: 94148c3596a3a8c419e0125a725a914b, type: 2}
+    <Quantity>k__BackingField: 1
+  - <ItemData>k__BackingField: {fileID: 11400000, guid: 7c30864ea661c6b4abb0af4342c19f24, type: 2}
+    <Quantity>k__BackingField: 1
+  - <ItemData>k__BackingField: {fileID: 11400000, guid: 30fab3b571e461541b642470ec4602ad, type: 2}
+    <Quantity>k__BackingField: 4
+  - <ItemData>k__BackingField: {fileID: 11400000, guid: a07e4182390bec64bb31fe40ad675034, type: 2}
+    <Quantity>k__BackingField: 4
+  - <ItemData>k__BackingField: {fileID: 11400000, guid: 9789e8849bc20094da96492d659f3983, type: 2}
+    <Quantity>k__BackingField: 25

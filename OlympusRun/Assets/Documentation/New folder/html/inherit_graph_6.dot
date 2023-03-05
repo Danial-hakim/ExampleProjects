@@ -1,0 +1,29 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [label="NetworkBehaviour",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node1 [label="BGScroller",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_b_g_scroller.html",tooltip="Ensures the background is constantly moving away from the player, kept at a constant distance from th..."];
+  Node0 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="GodPlayer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_god_player.html",tooltip="A class managing the God Player attacks"];
+  Node0 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="HealthBar",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_health_bar.html",tooltip=" "];
+  Node0 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="MoveForward",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_move_forward.html",tooltip="A class that moves the player forward and tracks the distance they have travelled."];
+  Node0 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="NetworkSingleton\< T \>",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_network_singleton.html",tooltip=" "];
+  Node0 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="Player",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_player.html",tooltip=" "];
+  Node0 -> Node7 [dir="back",color="steelblue1",style="solid"];
+  Node7 [label="RunnerHealthController",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_runner_health_controller.html",tooltip="Manage the health of the runner and update the health bar. The health value is synchronised with the ..."];
+  Node0 -> Node8 [dir="back",color="steelblue1",style="solid"];
+  Node8 [label="RunnerPlayer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_runner_player.html",tooltip="A class which accepts player input and makes the runner move, jump and slide accordingly"];
+  Node0 -> Node9 [dir="back",color="steelblue1",style="solid"];
+  Node9 [label="RunnerReferencesSetter",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_runner_references_setter.html",tooltip="Assign references to the runner to every script that needs it in the scene, because the runner is ins..."];
+  Node0 -> Node10 [dir="back",color="steelblue1",style="solid"];
+  Node10 [label="Score",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_score.html",tooltip="Class that updates and manages the player's scores"];
+}

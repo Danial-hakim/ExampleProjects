@@ -1,0 +1,16 @@
+digraph "C:/Users/gameuser/Desktop/NewArgo/ARGO-Endless-Runner"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_031772d025bebd47aefeb933035f3a86 {
+    graph [ bgcolor="#daedff", pencolor="grey50", label="NewArgo", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_031772d025bebd47aefeb933035f3a86.html",tooltip=""]
+  subgraph clusterdir_a7c46a0ccc9c1ab92e98a9e9dab2e071 {
+    graph [ bgcolor="#daedff", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_a7c46a0ccc9c1ab92e98a9e9dab2e071.html",tooltip=""]
+    dir_a7c46a0ccc9c1ab92e98a9e9dab2e071 [shape=plaintext, label="ARGO-Endless-Runner"];
+  dir_1fea95b15aded936b9cdea9fc3ee6324 [label="Assets", fillcolor="#4ea9ff", color="grey25", style="filled", URL="dir_1fea95b15aded936b9cdea9fc3ee6324.html",tooltip=""];
+  }
+  }
+}

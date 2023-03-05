@@ -1,0 +1,12 @@
+digraph "D:/Users/razor/Documents/Studies/Year 4/ARGO/ARGO Endless Runner/Assets/Scripts/God"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_1d87fe3a4cbbe735367200dca4ed2ccd {
+    graph [ bgcolor="#daedff", pencolor="grey50", label="Scripts", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_1d87fe3a4cbbe735367200dca4ed2ccd.html",tooltip=""]
+  dir_6f60156c7564ed5c1ab0187650a105d0 [label="God", fillcolor="#daedff", color="grey25", style="filled,bold", URL="dir_6f60156c7564ed5c1ab0187650a105d0.html",tooltip=""];
+  }
+}

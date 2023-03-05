@@ -1,0 +1,17 @@
+digraph "D:/Users/razor/Documents/Studies/Year 4/ARGO/ARGO Endless Runner/Assets/Scripts"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_c553857bd3ade66922e8101abc73756e {
+    graph [ bgcolor="#daedff", pencolor="grey50", label="Assets", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_c553857bd3ade66922e8101abc73756e.html",tooltip=""]
+  subgraph clusterdir_1d87fe3a4cbbe735367200dca4ed2ccd {
+    graph [ bgcolor="#daedff", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_1d87fe3a4cbbe735367200dca4ed2ccd.html",tooltip=""]
+    dir_1d87fe3a4cbbe735367200dca4ed2ccd [shape=plaintext, label="Scripts"];
+  dir_e95e30dead4f46966785f7bffcc7c6b5 [label="AI", fillcolor="#4ea9ff", color="grey25", style="filled", URL="dir_e95e30dead4f46966785f7bffcc7c6b5.html",tooltip=""];
+  dir_6f60156c7564ed5c1ab0187650a105d0 [label="God", fillcolor="#4ea9ff", color="grey25", style="filled", URL="dir_6f60156c7564ed5c1ab0187650a105d0.html",tooltip=""];
+  }
+  }
+}

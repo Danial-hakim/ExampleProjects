@@ -1,0 +1,18 @@
+digraph "GodAttack"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="GodAttack",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Inherit from this class to create a new attack for the god player."];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="MonoBehaviour",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="AvoidGodAttack",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_avoid_god_attack.html",tooltip="Setting and spawning an avoidable obstacle at given position"];
+  Node1 -> Node4 [dir="back",color="steelblue1",style="solid"];
+  Node4 [label="DummyGodAttack",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_dummy_god_attack.html",tooltip="Just an example script to show how to create a new attack."];
+  Node1 -> Node5 [dir="back",color="steelblue1",style="solid"];
+  Node5 [label="JumpGodAttack",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_jump_god_attack.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="steelblue1",style="solid"];
+  Node6 [label="SlideGodAttack",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_slide_god_attack.html",tooltip=" "];
+}

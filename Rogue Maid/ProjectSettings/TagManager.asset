@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile_Player
+  - Weapon_Player
+  - Soda
+  - Enemy
+  - Exit
+  - Food
+  - Coin
+  - HeartContainer
+  - GhostDetectionCollider
+  - Ghost
+  - Closet
+  - Shop
+  - DefenseUpPotion
+  - KittyFood
+  - MysteryPotion
+  - SpeedUpPotion
+  - AttackUpPotion
+  - UIInventory
+  - Companion
+  - RefillHealthPotion
+  - BSPDungeonGenerator
+  - Wall
+  - DungeonGenerator
+  - SwordSlash
+  - Floor
+  - Hud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Items
+  - Water
+  - UI
+  - Player
+  - Spider
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2741653669
+    locked: 0
+  - name: Items
+    uniqueID: 2987085781
+    locked: 0
+  - name: Spawner
+    uniqueID: 1825585719
+    locked: 0
+  - name: Enemy
+    uniqueID: 1637852733
+    locked: 0
+  - name: Player
+    uniqueID: 223884021
+    locked: 0

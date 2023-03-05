@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/MultiplayerMenu.unity.meta
+guid: 2ecdaa857709b72459e1b2f2a383b034
+========
+guid: 26c85fb1a1aacfb45b66910e888a38fe
+folderAsset: yes
+>>>>>>>> ae6d893 (AA-180 task world building complete, bgs, foilage, new columns, shaders for 2D sprite shadows):Assets/ParticleEffects.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

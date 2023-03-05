@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Runner
+  - AnalyticsManager
+  - BehindPlayer
+  - SpeedUp
+  - SpeedDown
+  - MaxHealth
+  - PartHealth
+  - Apple
+  - Pomegranate
+  - Coin
+  - Ground
+  - JumpObstacle
+  - SlideObstacle
+  - Inpenetrable
+  - God
+  - Moon
+  - Decoration
+  - HealthBar
+  - RunnerDisplay
+  - AI_Inpenetrable
+  - RBS_Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Runner
+  - AttackObstacle
+  - Obstacle
+  - Item
+  - Coin
+  - Potion
+  - Glow
+  - Trail
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 563572159
+    locked: 0

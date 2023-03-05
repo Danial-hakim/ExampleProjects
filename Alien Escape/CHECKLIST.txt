@@ -1,0 +1,21 @@
+Movement of the player D
+Grid System D
+Movement of the Alien D
+Throwing/Using Objects D
+Inventory D
+
+C & D	Pathfinding of the Alien D
+
+				C - Player Mission
+
+				C & D - Sounds HD
+C - items D
+				C & D - Sprites MD
+
+				D - UI System (Menus) MD
+
+				Lighting System
+Particle System ( if ) 
+
+C - Level Editor D
+D - Animation D
